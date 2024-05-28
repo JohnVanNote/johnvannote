@@ -1,6 +1,6 @@
 ## About me
 
-Writes Java, has strong opinions.
+Pro grammer.
 
 Ware so soft they call it velvet.
 
