@@ -2,4 +2,4 @@
 
 Pro grammer.
 
-Principal software engineer @[Fundrise](https://fundrise.com/).
+Lead software engineer @[Fundrise](https://fundrise.com/).
